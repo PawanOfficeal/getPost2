@@ -1,0 +1,52 @@
+*{
+	padding:0;
+	margin:0;
+	box-sizing: border-box;
+}
+.fa-solid fa-microchip{
+	height:20px;
+	font-size:2rem;
+	color: lightskyblue;
+}
+.fa-computer{
+	font-size: 4rem;
+	color: #3FACC3;
+}
+.fa-house{
+	font-size: 1rem;
+	color: #917272;
+}
+.fa-blog{
+	font-size: 1rem;
+	color: #917272;
+}
+.fa-user-group{
+font-size: 1rem;
+	color: #917272;
+}
+.fa-phone-volume{
+	font-size: 1rem;
+	color: #917272;
+}
+.get-data-article{
+	width: 100%;
+	height: 10rem;
+	background-color: #D1F5B4;
+	border-bottom: .5px solid gray;
+}
+.get-data-article >.get-data-btn{
+	width: 8rem;
+	height: 1.5rem;
+	background-color:darkgray;
+	cursor: pointer;
+	border: none;
+	border-radius: 4px;
+}
+._btn{
+	width: 100px;
+	height: 30px;
+	border: .5px solid gray;
+	background-color: lightpink;
+	cursor: pointer;
+}
+p{color: blue;}

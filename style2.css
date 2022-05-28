@@ -1,0 +1,36 @@
+html{background-color: #CFD8DA;}
+.blog1{background-color: #B4E5F9;}
+.para{background-color: #A3E893;}
+.btn1{
+	width: 100px;
+	height: 40px;
+	border-radius: 5px;
+	border: 1px solid red;
+	cursor: pointer;
+}
+#form1{
+	width: 100%;
+	height: auto;
+	background-color:#A5A0A0;
+	border: none;
+}
+.form-control{
+	width: 100%;
+	height: 1.5rem;
+	border: .5 solid darkgrey;
+	border-radius: 6px;
+}
+.btn2{
+	width: 110px;
+	height: 40px;
+	border-radius: 5px;
+	border: .5px solid brown;
+	cursor: pointer;
+}
+.form-input{
+	width: 100%;
+	height: 1.5rem;
+	border: .5 solid darkgrey;
+	border-radius: 6px;
+	background-color:lightskyblue;
+}
